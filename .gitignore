@@ -1,0 +1,5 @@
+# Downloaded dataset (about 1.84 GB) - fetched by notebooks/01_data_preparation.ipynb
+data/
+
+.ipynb_checkpoints/
+__pycache__/
